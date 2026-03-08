@@ -1,4 +1,4 @@
-# TCC: Análise Comparativa de IAs no Desenvolvimento de Software - Projeto Economizapp
+# TCC: Avaliação Comparativa de Modelos de Linguagem de Grande Escala na Geração Autônoma de Software: Um Estudo de Caso com ChatGPT, Gemini e Claude
 
 Este repositório contém os arquivos, aplicativos compilados e relatórios de análise de código referentes ao Trabalho de Conclusão de Curso. O objetivo deste projeto é comparar o desenvolvimento de um mesmo aplicativo móvel (**Economizapp**) utilizando três diferentes Modelos de Linguagem de Grande Escala (LLMs).
 
