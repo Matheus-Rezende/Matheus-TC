@@ -10,7 +10,8 @@ Abaixo está a descrição detalhada dos arquivos e diretórios disponíveis par
 * **`diario_prompts.pdf`**: Documento que registra a evolução e o refinamento dos comandos (prompts) utilizados com cada IA ao longo do tempo. Este arquivo é fundamental para entender a engenharia de prompt aplicada e garantir a reprodutibilidade do estudo.
 
 ### 📖 Requisitos
-* **`documento_economizapp_1.0(final).pdf`**: Documento com os requisitos completos do sistema (casos de uso, requisitos funcionais e requisitos não funcionais).
+* **`documento_economizapp_1.0.pdf`**: Documento com os requisitos completos do sistema (casos de uso, requisitos funcionais e requisitos não funcionais) primeira versão.
+* **`documento_economizapp_2.0.pdf`**: Documento com os requisitos completos do sistema (casos de uso, requisitos funcionais e requisitos não funcionais) segunda versão.
 
 ### 📱 Aplicativos Compilados (Builds Finais)
 Os arquivos `.apk` abaixo representam o resultado final executável do projeto Economizapp, gerado a partir do código fornecido por cada respectiva inteligência artificial:
